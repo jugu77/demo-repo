@@ -16,3 +16,7 @@ Wathc tutrial on youtube.
     - Commits the changes to the reposritory
 - git push origin master
     - Pushes changes to the repostory
+
+## BRANCHING
+
+Hello!
